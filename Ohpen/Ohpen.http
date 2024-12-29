@@ -1,0 +1,6 @@
+@Ohpen_HostAddress = http://localhost:5294
+
+GET {{Ohpen_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

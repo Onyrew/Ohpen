@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ohpen", "Ohpen.csproj", "{8E9EA2FE-94BA-4208-B581-57EBB084CFE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OhpenExt", "..\OhpenExt\OhpenExt.csproj", "{6DFF96F9-99A4-47A5-A502-7DCD93702978}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ohpen.Test", "..\Ohpen.Test\Ohpen.Test.csproj", "{8D356B21-7A8D-474E-996B-1EC4915AF36B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E9EA2FE-94BA-4208-B581-57EBB084CFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9EA2FE-94BA-4208-B581-57EBB084CFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9EA2FE-94BA-4208-B581-57EBB084CFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9EA2FE-94BA-4208-B581-57EBB084CFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DFF96F9-99A4-47A5-A502-7DCD93702978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DFF96F9-99A4-47A5-A502-7DCD93702978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DFF96F9-99A4-47A5-A502-7DCD93702978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DFF96F9-99A4-47A5-A502-7DCD93702978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D356B21-7A8D-474E-996B-1EC4915AF36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D356B21-7A8D-474E-996B-1EC4915AF36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D356B21-7A8D-474E-996B-1EC4915AF36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D356B21-7A8D-474E-996B-1EC4915AF36B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
